@@ -1,0 +1,166 @@
+body {
+  font-family: "Open Sans", sans-serif !important;
+  padding-top: 54px;
+  color: #868e96;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 0;
+    padding-left: 17rem;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Saira Extra Condensed', serif;
+  font-weight: 700 !important;
+  text-transform: uppercase;
+  color: #343a40 !important;
+}
+
+h1 {
+  font-size: 6rem !important;
+  line-height: 5.5rem !important;
+}
+
+h2 {
+  font-size: 3.5rem !important;
+}
+
+.subheading {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 2rem;
+}
+
+.list-social-icons a {
+  color: #495057;
+}
+
+.list-social-icons a:hover {
+  color: #BD5D38;
+}
+
+.list-social-icons a .fa-lg {
+  font-size: 1.75rem;
+}
+
+.list-icons {
+  font-size: 3rem;
+}
+
+.list-icons .list-inline-item i:hover {
+  color: #BD5D38;
+}
+
+#sideNav .navbar-nav .nav-item .nav-link {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 1.5rem
+}
+
+@media (min-width: 992px) {
+  #sideNav {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    height: 100vh;
+    justify-content: start;
+  }
+
+  #sideNav .navbar-brand {
+    display: flex;
+    margin: 0 auto 0;
+    padding: 0.5rem;
+  }
+
+  #sideNav .img-profile {
+    max-width: 12rem;
+    max-height: 12rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
+
+  #sideNav .navbar-nav {
+    flex-direction: column;
+    width: 100%;
+    text-align: left;
+  }
+
+  #sideNav .navbar-nav .nav-item {
+    display: block;
+  }
+
+  #sideNav .navbar-nav .nav-item .nav-link {
+    display: block;
+  }
+}
+
+section.resume-section {
+  border-bottom: 1px solid #dee2e6;
+  padding: 5rem !important;
+}
+
+section.resume-section .resume-item {
+  justify-content: space-between;
+}
+
+@media (min-width: 768px) {
+  section.resume-section {
+    min-height: 100vh;
+  }
+
+  section.resume-section .resume-item .resume-date {
+    min-width: 18rem;
+  }
+}
+
+@media (min-width: 992px) {
+  section.resume-section {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+  }
+}
+
+.nav-bg {
+  background-color: #040b14;
+}
+
+.last-name {
+  color: #BD5D38 !important;
+}
+
+.time-period {
+  color: #BD5D38 !important;
+}
+
+#sideNav .navbar-nav .nav-item a {
+  color: rgba(255, 255, 255, .5) !important;
+}
+
+#sideNav .navbar-nav .nav-item a:hover,
+a:focus,
+a:active {
+  color: white !important;
+}
+
+.active-item {
+  color: white !important;
+}
+
+.email {
+  color: #BD5D38 !important;
+}
+
+.email:hover {
+  color: #824027;
+}
