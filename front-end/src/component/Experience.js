@@ -10,13 +10,10 @@ function Experience() {
             <h3 class="mb-0">Senior Application Developer</h3>
             <div class="subheading mb-3">ADP - USA</div>
             <ul class="h5">
-              <li>Worked in the project aimed to provide customers payroll services to transform data for specific formats.</li>
-              <li>Developed REST APIs for different services for transforming to assist both employees and companies.</li>
-              <li>Applied learned technical skills to the best of use for problem-solving initiatives to meet the needs of the company's clientele.</li>
-              <li>Created an innovative solution by providing a unique platform to meet and fulfill the company's technical requirements.</li>
-              <li>Manage and mentor junior; take responsibility for technical solutions, production support and issues.</li>
-              <li>Troubleshoot production issues in the applications using UI, postman, Grafana, AWS cloud watch, production logs, database UI tools such as Postgresql with SQL queries.</li>
-              <li>Involved in writing creating defects reported and fix the issue in production.</li>
+              <li>Developed REST APIs to transform data for payroll services, assisting both employees and companies which support thousands of companies and millions of employees in dynamic layouts.</li>
+              <li>Utilized technical skills to create an innovative platform that met the company’s technical requirements.</li>
+              <li>Managed and mentored junior developers while handling technical solutions, production support, and issue resolution.</li>
+              <li>Collaborated with teams across multiple countries to resolve defects and improve system performance.</li>
               <li>Working across many teams in different countries.</li>
               <li>Technologies Used: Microservices, Java 11, Java 17, Spring, Spring Boot, Hibernate, JPA, Spring Data, Kafka, Jenkins, JIRA, Git, AWS, CI/CD, Terraform, Aurora, Maven, RESTful API, Apache FOP, Scrum, SonarQueue, IntelliJ, NodeJS 18, Angular 15, React, Typescript.</li>
             </ul>
@@ -31,14 +28,13 @@ function Experience() {
             <h3 class="mb-0">Senior Associate </h3>
             <div class="subheading mb-3">DBS BANK - Singapore </div>
             <ul class="h5">
-              <li>Worked in the project aimed to provide customers with an accessible and secure platform for investing and managing their investment portfolios.</li>
-              <li>Designed an end-to-end solution, supporting large-scale distributed software, implementing highly available, reliable, and scalable systems and services related to REST APIs, PaaS and IaaS infrastructures for a more organized and efficient banking experience to assist both employees and customers.</li>
-              <li>Applied learned technical skills to the best of use for problem-solving initiatives in order to meet the needs of the company's clientele.</li>
-              <li>Created an innovative solution by providing a unique platform to meet and fulfil the company's technical requirements.</li>
-              <li>Manage and mentor junior; take responsibility for technical solutions, production support and issues.</li>
-              <li>Troubleshoot production issues in the applications using UI, postman, Grafana, production logs, database ui tools such as MySQL Workbench with SQL queries.</li>
-              <li>Involved in writing creating defects reported and fix the issue in production.</li>
-              <li>Working across many teams in different countries.</li>
+              <li>Led, designed, and developed an accessible and secure platform for managing investment portfolios that support millions of customers.</li>
+              <li>Led and managed teams and projects across different countries.</li>
+              <li>Designed an end-to-end solution, supporting large-scale distributed software, implementing highly available, reliable, and scalable systems and services related to REST APIs, PaaS, FaaS and IaaS infrastructures for a more organized and efficient banking experience to assist both employees and customers.</li>
+              <li>Created, designed, and config applications from scratch that follow the best practices and design patterns for scalable applications.</li>
+              <li>Leveraged technical skills for problem-solving and fulfilling company requirements with innovative solutions.</li>
+              <li>Troubleshoot production issues using Postman, Grafana, MySQL Workbench, and other tools.</li>
+              <li>Collaborated with global teams to resolve defects and improve system performance.</li>
               <li>Technologies Used: Microservices, Java 11, Spring, Spring Security, Spring Boot, Hibernate, JPA, Spring Data, Kafka, Jenkins, JIRA, Git, PCF, AWS, MySQL, Grafana, Gradle, RESTful API, Scrum, SonarQueue, IntelliJ, NodeJS, Angular 11, React, Typescript.</li>
             </ul>
           </div>

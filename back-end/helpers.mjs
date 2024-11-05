@@ -1,8 +1,10 @@
 import { PutItemCommand } from '@aws-sdk/client-dynamodb';
 import { SNSClient, PublishCommand } from "@aws-sdk/client-sns";
+import { S3 } from "@aws-sdk/client-S3";
 import crypto from 'node:crypto';
 
 const snsClient = new SNSClient({ region: 'us-east-1' });
+const s3 = new S3();
 
 const tableName = 'contact';
 
